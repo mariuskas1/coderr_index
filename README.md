@@ -1,4 +1,4 @@
-# Coderr Index
+## Coderr Index
 
 This repository serves as an index for all related repositories of **Coderr**. 
 
@@ -11,4 +11,4 @@ Below are links to the different repositories:
 ## 🎨 Frontend
 - **Vanilla JavaScript Frontend** – [GitHub Repository](https://github.com/mariuskas1/coderr_frontend)
 
-*Note: For this app, I only provided the backend. The frontend code was provided by the Developer Akademie and serves only to test the API functionality.
+*Note: For this app, I only provided the backend API. The frontend code was provided by the Developer Akademie and serves only to test the API functionality.
