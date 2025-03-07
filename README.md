@@ -1,6 +1,6 @@
 ## Coderr Index
 
-This repository serves as an index for all related repositories of **Coderr**. 
+This repository serves as an index for all related repositories of the **Coderr App**. 
 
 Below are links to the different repositories:
 
